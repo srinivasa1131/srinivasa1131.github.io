@@ -1,0 +1,11 @@
+{
+  "name"         : "shrini-angular",
+  "version"      : "0.0.0",
+  "description"  : "Shrini-angular Website",
+  "main"         : "server.js",
+  "author"       : "Scotch",
+  "dependencies" : {
+    "express"    : "~4.7.2",
+	"method-override": "~2.1.2"
+  }
+}
